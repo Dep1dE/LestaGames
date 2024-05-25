@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|solutionrelative:TreePillars\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|solutionrelative:TreePillars\\Start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|solutionrelative:TreePillars\\MainRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|solutionrelative:TreePillars\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9D0B1C-0552-4C65-87D6-9CE53CB7969C}|TreePillars\\TreePillars.vcxproj|solutionrelative:TreePillars\\MainRandom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.cpp",
+              "RelativeDocumentMoniker": "TreePillars\\Functions.cpp",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.cpp",
+              "RelativeToolTip": "TreePillars\\Functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-18T01:40:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainRandom.h",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.h",
+              "RelativeDocumentMoniker": "TreePillars\\MainRandom.h",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.h",
+              "RelativeToolTip": "TreePillars\\MainRandom.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-23T21:15:00.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainRandom.cpp",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.cpp",
+              "RelativeDocumentMoniker": "TreePillars\\MainRandom.cpp",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\MainRandom.cpp",
+              "RelativeToolTip": "TreePillars\\MainRandom.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-23T21:14:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.h",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.h",
+              "RelativeDocumentMoniker": "TreePillars\\Functions.h",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Functions.h",
+              "RelativeToolTip": "TreePillars\\Functions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-18T01:42:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start.cpp",
+              "DocumentMoniker": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Start.cpp",
+              "RelativeDocumentMoniker": "TreePillars\\Start.cpp",
+              "ToolTip": "D:\\WorkTable\\information\\Projects\\Lesta\\ThreePillars\\TreePillars\\TreePillars\\Start.cpp",
+              "RelativeToolTip": "TreePillars\\Start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-18T01:38:26.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
